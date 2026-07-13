@@ -1,4 +1,4 @@
-# Hi, I'm Apple 👋
+# Hi, I'm Apple
 
 I'm a Full Stack Developer from the Philippines who enjoys building modern web applications, mobile apps, and AI-powered solutions.
 
