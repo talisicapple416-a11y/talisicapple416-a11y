@@ -53,12 +53,6 @@ Full Stack Developer specializing in building scalable web applications, SaaS pl
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talisicapple416-a11y&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talisicapple416-a11y&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=talisicapple416-a11y&theme=tokyonight"/>
 </p>
