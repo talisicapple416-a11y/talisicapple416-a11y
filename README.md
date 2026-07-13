@@ -55,12 +55,12 @@ Full Stack Developer specializing in building scalable web applications, SaaS pl
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=talisicapple416-a11y&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talisicapple416-a11y&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=talisicapple416-a11y&theme=tokyonight"/>
 </p>
 
 ---
@@ -87,10 +87,8 @@ Full Stack Developer specializing in building scalable web applications, SaaS pl
 ---
 
 ## 📫 Connect With Me
-
-- Portfolio: https://your-portfolio.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your@email.com
+- LinkedIn: [https://linkedin.com/in/your-profile](https://ph.linkedin.com/in/apple-talisic-564320237)
+- Email: talisicapple416@gmail.com
 
 ---
 
