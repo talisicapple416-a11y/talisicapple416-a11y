@@ -81,13 +81,13 @@ Full Stack Developer specializing in building scalable web applications, SaaS pl
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [https://linkedin.com/in/your-profile](https://ph.linkedin.com/in/apple-talisic-564320237)
+- LinkedIn: https://ph.linkedin.com/in/apple-talisic-564320237
 - Email: talisicapple416@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=talisicapple416-a11y&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 > "Build things that matter."
